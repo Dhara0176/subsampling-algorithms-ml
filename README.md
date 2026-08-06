@@ -101,21 +101,7 @@ The experiments showed that:
 
 ---
 
-## Repository Structure
 
-```
-subsampling-algorithms-ml/
-│
-├── data/
-├── src/
-├── results/
-│   ├── graphs/
-│   └── tables/
-├── report/
-│   └── Research_Report.pdf
-├── requirements.txt
-└── README.md
-```
 
 ## Author
 
