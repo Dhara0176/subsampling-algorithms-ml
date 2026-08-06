@@ -55,11 +55,11 @@ The sampled datasets were trained using:
 
 ## Experimental Setup
 
-- Split the dataset into **80% training** and **20% testing** data.
+- Split the dataset into 80% training and 20% testing data.
 - Applied sampling only on the training dataset.
-- Used sample sizes of **2%, 3%, 5%, 7%, 10%, 12%, 15%, and 20%**.
-- Repeated each experiment **5 times** using different random samples.
-- Calculated the **mean** and **standard deviation** of the evaluation metrics.
+- Used sample sizes of 2%, 3%, 5%, 7%, 10%, 12%, 15%, and 20%.
+- Repeated each experiment 5 times using different random samples.
+- Calculated the mean and standard deviation of the evaluation metrics.
 
 ---
 
