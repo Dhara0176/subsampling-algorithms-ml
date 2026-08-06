@@ -14,7 +14,6 @@ Different sampling techniques and classification algorithms are compared to obse
 
 The goal of this project is to compare different sampling techniques and classification algorithms to determine which combinations can produce results similar to those obtained using the full training dataset.
 
-The project also studies how much training time and carbon emissions can be reduced by using sampled datasets.
 
 ---
 
